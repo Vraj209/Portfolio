@@ -1,0 +1,12 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Institute for Plasma Research",
+    "startDate": "December, 2021",
+    "endDate": "April, 2022",
+    "experiences": [
+      "Develop Analytics Dashboard for High Performance Computing (HPC) Cluster"
+    ],
+    "imageSrc": "history/ipr.png"
+  }
+]

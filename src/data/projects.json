@@ -1,0 +1,29 @@
+[
+  {
+    "title": "FitVista",
+    "imageSrc": "projects/project.png",
+    "description": "This is a fitness full-stack app which includes an ecommerce store, a blog section, a pre-recorded workout section and a one to one chat and video call feature.",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "MongoDB",
+      "Stripe"
+    ],
+    "demo": "https://fit-vista-front-end.vercel.app/",
+    "source": "https://github.com/Vraj209/FitVista-front-end"
+  },
+  {
+    "title": "KWC Student Portal",
+    "imageSrc": "projects/project.png",
+    "description": "This is a community student portal for KWC students. It is used for an administrative purposes for analyse student information",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "MongoDB"
+    ],
+    "demo": "#",
+    "source": "#"
+  }
+]
